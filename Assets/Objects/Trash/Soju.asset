@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9241c3b73015e304482a26a5ce30cb09, type: 3}
+  m_Name: Soju
+  m_EditorClassIdentifier: 
+  trashName: "\uC18C\uC8FC\uBCD1"
+  trashDescription: "\uC18C\uC8FC\uBCD1\uC740 \uAE68\uB057\uD55C \uBE48 \uBCD1 \uC0C1\uD0DC\uB85C
+    \uBCD1\uB958\uC5D0 \uBC30\uCD9C\uD569\uB2C8\uB2E4!"
+  image: {fileID: 21300000, guid: 9deb1b578f156ca448b82595dc6ca873, type: 3}
+  typeBottom: {fileID: 11400000, guid: 44e4a65e1b2e49844b3bfc7bb3fb0c2e, type: 2}
+  throwingIsAnswer: 1
+  handDepth: 1
